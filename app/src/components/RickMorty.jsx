@@ -46,7 +46,6 @@ function RickMorty(props) {
                   style={{
                     width: "18rem",
                     margin: "20px",
-                    display: props.isLoading ? "none" : "block",
                   }}
                 >
                   <Card.Img
